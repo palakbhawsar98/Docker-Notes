@@ -75,7 +75,7 @@ docker logs container-name
 - Define steps
 - Build image docker build 
 ```
-Dockerfile -t docker_hub_username/application-name
+Dockerfile build -t docker_hub_username/application-name
 ```
 - Push image  
 ```
