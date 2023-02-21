@@ -202,3 +202,4 @@ docker run --name myWebService -d -p 8080:8080 -v /home/ubuntu/myContainerData:/
 
 ## Docker Compose
 Docker Compose is a tool that was developed to help define and share multi-container applications. With Compose, we can create a YAML file to define the services and with a single command, can spin everything up or tear it all down.
+
